@@ -1,0 +1,11 @@
+{
+  "org": "Unidata",
+  "repo": "cftime",
+  "versions": [
+    {
+      "commit": "211e91f18fdb59f6030a10b8af10b84bdff81a2a",
+      "tag": "",
+      "parsed_at": "2026-10-17T03:42:27.499541+00:00"
+    }
+  ]
+}
