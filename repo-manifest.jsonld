@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Unidata/cftime/commit/211e91f18fdb59f6030a10b8af10b84bdff81a2a",
       "git:hexsha": "211e91f18fdb59f6030a10b8af10b84bdff81a2a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T03:42:27.420811+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Unidata/cftime/commit/06d7510ae4bc8618db5a5fdcf5166ef5efc3b112",
